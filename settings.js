@@ -18,8 +18,8 @@ global.autoread = false // auto read pesan / message
 //global.available = false //status online (online)
 
 // Other
-global.botname = "BOT-MD" //namabot kalian
-global.ownername= "Intan" //nama kalian
+global.botname = "Zero-MD" //namabot kalian
+global.ownername= "Zero-MD" //nama kalian
 global.myweb ="gak ada" //bebas asal jan hapus
 global.youtube = "gak ada" //bebas asal jan hapus
 global.github = "Github Masi prifate" //bebas
@@ -31,7 +31,7 @@ global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder i
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.owner = ["6283180721904","6281238772258","6283195786406"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© BOT-MD' //sticker wm ubah
+global.packname = '© Zero-MD' //sticker wm ubah
 global.author = 'Di Buat Oleh Intan' //sticker wm ganti nama kalian
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
